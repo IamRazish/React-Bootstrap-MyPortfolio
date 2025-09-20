@@ -1,8 +1,9 @@
+import type { ReactElement } from "react";
 import { Github, Linkedin, Mail } from 'lucide-react'
 import site from '../data/site.json'
 
 
-const iconMap: Record<string, JSX.Element> = {
+const iconMap: Record<string, ReactElement> = {
 GitHub: <Github size={18} aria-hidden />,
 LinkedIn: <Linkedin size={18} aria-hidden />,
 Email: <Mail size={18} aria-hidden />
