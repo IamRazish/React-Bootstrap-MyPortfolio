@@ -1,0 +1,26 @@
+[
+{
+"id": "exp-001",
+"role": "Senior Frontend Engineer",
+"company": "Acme Inc.",
+"start": "2022",
+"end": "Present",
+"achievements": [
+"Led migration to design system, -35% CSS size",
+"Improved Core Web Vitals to 95+/90+/98+",
+"Mentored 4 engineers and established a11y reviews"
+]
+},
+{
+"id": "exp-002",
+"role": "Frontend Engineer",
+"company": "Nimbus",
+"start": "2020",
+"end": "2022",
+"achievements": [
+"Rebuilt marketing site with React, +40% conversions",
+"Implemented i18n and SSR for SEO",
+"Launched a11y AA compliance initiative"
+]
+}
+]

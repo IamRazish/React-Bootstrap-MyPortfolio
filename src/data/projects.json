@@ -1,0 +1,39 @@
+[
+{
+"id": "proj-001",
+"title": "Alpha Dashboard",
+"summary": "Analytics dashboard with real-time charts and theming.",
+"description": "Built a modular dashboard using React and Bootstrap utilities, focusing on performance and a11y.",
+"tech": ["React","Bootstrap","Node"],
+"tags": ["frontend","ui"],
+"image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1170&q=80",
+"images": ["https://source.unsplash.com/800x600/?chart","https://source.unsplash.com/800x600/?data"],
+"links": { "live": "https://example.com/alpha", "code": "https://github.com/you/alpha" },
+"year": 2025,
+"featured": true
+},
+{
+"id": "proj-002",
+"title": "Beta Site",
+"summary": "Marketing site with optimized LCP and CLS.",
+"description": "SSR-ready marketing pages with lazy-loading and responsive images.",
+"tech": ["React","Bootstrap"],
+"tags": ["frontend"],
+"image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1115&q=80",
+"images": ["https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1115&q=80"],
+"links": { "live": "https://example.com/beta", "code": "https://github.com/you/beta" },
+"year": 2024
+},
+{
+"id": "proj-003",
+"title": "Gamma UI Kit",
+"summary": "Reusable component library and Storybook.",
+"description": "Design system components with accessibility baked in.",
+"tech": ["React","Bootstrap","TypeScript"],
+"tags": ["ui","library"],
+"image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=1170&q=80",
+"images": ["https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=1170&q=80"],
+"links": { "code": "https://github.com/you/gamma" },
+"year": 2023
+}
+]

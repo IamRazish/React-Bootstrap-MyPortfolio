@@ -1,0 +1,23 @@
+{
+"name": "Ali Raza",
+"role": "Frontend Engineer & UI Crafter",
+"primaryColor": "#6366F1",
+"accentColor": "#22D3EE",
+"baseUrl": "https://your-domain.com",
+"phone": "000-000-0000",
+"about":"I design and build beautifully simple UIs with code. As a Front-End Developer with 5+ years of experience, I specialize in React, TypeScript, and modern CSS to deliver fast, responsive, and accessible digital experiences.",
+"location": "Remore-First",
+"contactText": "Contact me",
+"download": "Download Resume",
+"socials": [
+{ "label": "GitHub", "url": "https://github.com/your" },
+{ "label": "LinkedIn", "url": "https://linkedin.com/in/your" },
+{ "label": "Email", "url": "mailto:you@example.com" }
+],
+"states": [
+{ "label": "Projects", "value": "50+" },
+{ "label": "Clients", "value": "42" },
+{ "label": "Years of Experience", "value": "12+" }
+],
+"resumeUrl": "/resume.pdf"
+}
