@@ -1,4 +1,3 @@
-import { Helmet } from 'react-helmet-async'
 import site from '../data/site.json'
 
 
@@ -13,7 +12,7 @@ const url = (site.baseUrl ?? '') + (path ?? '')
 const img = image ?? 'https://source.unsplash.com/1200x800/?abstract'
 const desc = description ?? 'Portfolio of ' + site.name
 return (
-<Helmet>
+<>
 <title>{fullTitle}</title>
 <meta name="description" content={desc} />
 <meta property="og:title" content={fullTitle} />
@@ -25,6 +24,6 @@ return (
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={desc} />
 <meta name="twitter:image" content={img} />
-</Helmet>
+</>
 )
 }
